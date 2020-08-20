@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A young game and web developer who currently lives in Japan</h3>
+<h3 align="center">A young game and web developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Scary Family 3D](https://github.com/hitagiNcode/Scary-Family-Scripts)
 
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [PuniPuni Games Website](https://github.com/hitagiNcode/punipuni-site)
 
-- 🤝 I’m looking for help with [Punipuni Games Website](https://github.com/hitagiNcode/punipuni-site)
+- 🤝 I’m looking for help with [Punipuni Games Website](https://hitagincode.github.io/punipuni-site/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/hitagiNcode](https://github.com/hitagiNcode)
+- 👨‍💻 All of my projects are available at [hitagiNcode](https://github.com/hitagiNcode)
 
-- 💬 Ask me about **C# and game development**
+- 💬 Ask me about **C# and Game development**
 
 - 📫 How to reach me **barisgunenc96@gmail.com**
 
@@ -24,5 +24,4 @@
 <p align="center">
 <a href="https://fb.com/kanarazu.katsu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kanarazu.katsu" height="30" width="30" /></a>
 <a href="https://instagram.com/btwpeace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="btwpeace" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/senjougaharahitagi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="senjougaharahitagi1" height="30" width="30" /></a>
 </p>
