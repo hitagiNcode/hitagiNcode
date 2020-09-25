@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on [PuniPuni Games Website](https://github.com/hitagiNcode/punipuni-site)
+- 👯 I’m looking to collaborate on [PuniPuni Studios Website](https://github.com/hitagiNcode/punipuni-site)
 
-- 🤝 I’m looking for help with [Punipuni Games Website](https://hitagincode.github.io/punipuni-site/)
+- 🤝 I’m looking for help with [Punipuni Studios Website](https://hitagincode.github.io/punipuni-site/)
 
 - 👨‍💻 All of my projects are available at [hitagiNcode](https://github.com/hitagiNcode)
 
