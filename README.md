@@ -1,4 +1,4 @@
-<h1 align="center">Hey There👋, I'm Barış [hitagiNcode]</h1>
+<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" alt="unity" width="20" height="20"/>, I'm Barış [hitagiNcode]</h1>
 <h3 align="center">A young game and web developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Scary Family 3D](https://github.com/hitagiNcode/Scary-Family-Scripts)
