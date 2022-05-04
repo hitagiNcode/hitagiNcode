@@ -5,8 +5,6 @@
 
 - 💖 Currently in love with **Unity** & **Flutter** 
 
-- 👨‍💻 All of my projects are available at here in Github [hitagiNcode](https://github.com/hitagiNcode)
-
 - 💬 Ask me anything about **C# and Game development**
 
 - 📫 How to reach me **work@barisgunenc.dev**
