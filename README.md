@@ -3,7 +3,7 @@
 
 - 🔭 Check out my **Web Portfolio** [barisgunenc.dev](https://barisgunenc.dev/)
 
-- 💖 Currently in love with **Unity** & **Flutter** 
+- 👨🏻‍💻 Currently in working with **Unity** & **Asp.Net** & **Flutter** 
 
 - 💬 Ask me anything about **C# and Game development**
 
