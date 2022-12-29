@@ -1,5 +1,5 @@
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" alt="unity" width="40" height="40"/>! I'm Barış</h1>
-<h3 align="center">Backend Developer (C#/Java) - DevOps Professional from Turkey / Antalya</h3>
+<h3 align="center">Backend Developer (C#/Java) - DevOps from Turkey / Antalya</h3>
 
 ## Skills and Expertise 👨🏻‍💻
 
@@ -19,7 +19,8 @@
 
 ## Contact Me 💬
  - 🔭 Check out my **Web Portfolio** made with Flutter **[barisgunenc.dev](https://barisgunenc.dev/)**
- - 📫 Feel free to reach out to me at work@barisgunenc.dev with any questions or opportunities. I'm always open to discussing new projects and ideas!
+ - 📫 Feel free to reach out to me at work@barisgunenc.dev with any questions or opportunities. 
+ - 💡 I'm always open to discussing new projects and ideas!
 
 <p align="center">
  <a href="https://www.linkedin.com/in/baris-gunenc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/linkedin.svg" alt="linkedin.com/in/baris-gunenc/" height="30" width="30" /></a>
